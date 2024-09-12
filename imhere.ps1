@@ -17,7 +17,7 @@ Write-Output 'I''m here!'
 
 $myShell = New-Object -com "WScript.Shell"
 while ($true) {
-	Start-Sleep -Seconds 120
-	$myShell.sendKeys("{NUMLOCK}")
+    Start-Sleep -Seconds 120
+    $myShell.sendKeys("{NUMLOCK}")
     $myShell.sendKeys("{NUMLOCK}")
 }
