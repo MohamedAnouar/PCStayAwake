@@ -10,7 +10,7 @@
 .LINK
 	https://github.com/MohamedAnouar
 .NOTES
-	Author: INTERNET | License: MIT
+	Author: INTERNET | License: Apache License
 #>
 
 Write-Output 'I''m here!'
